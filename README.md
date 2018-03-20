@@ -13,61 +13,61 @@ zombie elite grenadier
 * On death grabs a grenade
 
 spitter zombie
--No longer spits acid
+* No longer spits acid
 
 corrosive zombie
--No longer shoots acid (still barfs acid at melee)
+* No longer shoots acid (still barfs acid at melee)
 
 smoker zombie
--No longer emits smoke while alive (still releases smoke on death)
+* No longer emits smoke while alive (still releases smoke on death)
 
 Smoky bear
--No longer emits smoke while alive (still releases smoke on death)
+* No longer emits smoke while alive (still releases smoke on death)
 
 shocker zombie
--No longer shoots lightning
--Melee stats same as normal zombie
--Deals shocks when scratches and bites instead of every attack
--Reduced zap back chance to 50 (was 100)
+* No longer shoots lightning
+* Melee stats same as normal zombie
+* Deals shocks when scratches and bites instead of every attack
+* Reduced zap back chance to 50 (was 100)
 
 shocker brute
--No longer shoots lightning
--Melee stats same as normal brute
--Deals shocks when scratches and bites instead of every attack
--Reduced zap back chance to 40 (was 75)
+* No longer shoots lightning
+* Melee stats same as normal brute
+* Deals shocks when scratches and bites instead of every attack
+* Reduced zap back chance to 40 (was 75)
 
 shady zombie
--Does not turn invisible during night
--Reduced night vision to 10 (was 40)
--Increased day vision to 20 (was 3)
+* Does not turn invisible during night
+* Reduced night vision to 10 (was 40)
+* Increased day vision to 20 (was 3)
 
 zombie nightstalker
--Does not turn invisible during night
--Reduced night vision to 10 (was 40)
--Increased day vision to 20 (was 3)
+* Does not turn invisible during night
+* Reduced night vision to 10 (was 40)
+* Increased day vision to 20 (was 3)
 
 zombie necromancer
--Is now just a normal zombie
+* Is now just a normal zombie
 
 boomer
--Renamed to fat zombie
--Doesn't blow up
--Same stats as fat zombie
+* Renamed to fat zombie
+* Doesn't blow up
+* Same stats as fat zombie
 
 huge boomer
--Doesn't do whatever it did before
+* Doesn't do whatever it did before
 
 bloated zombie
--No longer releases gas while alive (still releases gas on death)
+* No longer releases gas while alive (still releases gas on death)
 
 The following special zombies have not been touched. If you feel any of them needs despecializing leave a suggestion.
--shrieker zombie
--screecher zombie
--zombie scientist
--zombie master
--zombie hollow
--grappler zombie
--grabber zombie
--zombie wrestler
--bio-operator
--Fungal zombies are not changed
+* shrieker zombie
+* screecher zombie
+* zombie scientist
+* zombie master
+* zombie hollow
+* grappler zombie
+* grabber zombie
+* zombie wrestler
+* bio-operator
+* Fungal zombies are not changed
