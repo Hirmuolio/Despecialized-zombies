@@ -1,7 +1,10 @@
-#Despecialized zombies
+# Despecialized zombies
+
 This mod will make many special zombies less special by removeing their special attacks, death functions, flags or by stat adjustments.
 
-List of changes:
+Simply download and extract into a folder in "data\mods".
+
+### List of changes:
 
 zombie grenadier
 
