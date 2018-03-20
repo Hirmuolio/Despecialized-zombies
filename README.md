@@ -1,14 +1,16 @@
+#Despecialized zombies
 This mod will make many special zombies less special by removeing their special attacks, death functions, flags or by stat adjustments.
 
 List of changes:
 
 zombie grenadier
--No more releases grenade bots
--On death grabs a flashbang
+
+* No more releases grenade bots
+* On death grabs a flashbang
 
 zombie elite grenadier
--No more releases grenade bots
--On death grabs a grenade
+* No more releases grenade bots
+* On death grabs a grenade
 
 spitter zombie
 -No longer spits acid
