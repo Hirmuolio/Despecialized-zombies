@@ -256,7 +256,7 @@
         "damage_max_instance": [
           {
             "damage_type": "electric",
-            "amount": 12,
+            "amount": 12
           }
         ]
       }
@@ -291,6 +291,7 @@
     "armor_bash": 4,
     "armor_cut": 6,
     "special_attacks": [
+	[ "SMASH", 30 ],
       {
         "id": "scratch",
         "damage_max_instance": [
@@ -305,16 +306,13 @@
         "damage_max_instance": [
           {
             "damage_type": "electric",
-            "amount": 12,
+            "amount": 12
           }
         ]
       }
     ],
     "vision_night": 3,
     "luminance": 16,
-    "special_attacks": [
-      [ "SMASH", 30 ]
-    ],
     "special_when_hit": [ "ZAPBACK", 40 ],
     "death_drops": "default_zombie_death_drops",
     "death_function": [ "NORMAL" ],
